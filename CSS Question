@@ -1,0 +1,30 @@
+1. What Is CSS?
+2. What is the Box model in CSS? Which CSS properties are a part of it?
+3. What are the advantages of using CSS?
+4. What are the limitations of CSS?
+5. How to include CSS in the webpage?
+6. What are the different types of Selectors in CSS?
+7. What is VH/VW (viewport height/ viewport width) in CSS?
+8. Difference between reset vs normalize CSS?. How do they differ?
+9. What is the difference between inline, inline-block, and block?
+10. How do you test the webpage in different browsers?
+11. What is a Pseudo element? What is pseudo-class?
+12. How do you specify units in the CSS?. What are the different ways to do it?
+13. Does margin-top or margin-bottom have an effect on inline elements?
+14. Explain CSS position property?
+15. What does DOM reflow occur?
+16. Different Box Sizing Property?
+17. How to center align a div inside another div?
+18. Can you name the four types of @media properties?
+19. What is the grid system?
+20. What are the different ways to hide the element using CSS?
+21. What does the :root pseudo-class refer to?
+22. What does Accessibility (a11y) mean?
+23. How do I restore the default value of a property?
+24. Difference between CSS grid vs flexbox?
+25. How does Calc work?
+26. What do CSS Custom properties variables mean?
+27. What is the difference between CSS variables and preprocessor(SASS, LESS, Stylus) variables?
+28. What does * { box-sizing: border-box; } do? What are its advantages?
+29. What does important mean in CSS?
+30. What is specificity? How to calculate specificity?
